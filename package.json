@@ -1,0 +1,27 @@
+{
+  "name": "loopback-s3-storage",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "Petrushin Sergey",
+      "email": "soad2003@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "s3": "4.4.0",
+    "busboy": "0.2.9",
+    "lodash": "3.10.0",
+    "aws-sdk": "2.1.40",
+    "s3-upload-stream": "1.0.6"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "loopback-s3-storage@0.1.0",
+  "scripts": {},
+  "_shasum": "333c0c26b7a0adf02e72e8b3799389c33c8ec62e",
+  "_from": "node_modules/loopback-s3-storage",
+  "_resolved": "file:node_modules/loopback-s3-storage"
+}
