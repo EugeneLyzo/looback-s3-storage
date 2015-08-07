@@ -9,10 +9,12 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "s3": "4.4.0",
+    "async": "^1.4.0",
+    "aws-sdk": "2.1.40",
     "busboy": "0.2.9",
     "lodash": "3.10.0",
-    "aws-sdk": "2.1.40",
+    "q": "^1.4.1",
+    "s3": "4.4.0",
     "s3-upload-stream": "1.0.6"
   },
   "engines": {
